@@ -1,0 +1,2 @@
+# BSU_EDU_PRACTICE_FRONTEND
+Весь front
